@@ -11,6 +11,11 @@
       "finished_at": "2026-04-23T13:31:01.245890+00:00",
       "started_at": "2026-04-23T13:30:26.908220+00:00",
       "trips_seen_in_poll": 11
+    },
+    {
+      "finished_at": "2026-04-23T13:45:46.438465+00:00",
+      "started_at": "2026-04-23T13:45:13.100262+00:00",
+      "trips_seen_in_poll": 10
     }
   ],
   "station_id": "8000297",
@@ -647,7 +652,7 @@
       },
       "first_seen_at": "2026-04-23T13:30:26.908220+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#1145390#TA#0#DA#230426#1S#8000297#1T#1553#LS#8000128#LT#1754#PU#80#RT#1#CA#DRB#ZE#74941#ZB#            74941#PC#3#FR#8000297#FT#1553#TO#8000128#TT#1754#": {
@@ -663,7 +668,7 @@
           {
             "arrival": null,
             "arrival_delay_minutes": null,
-            "arrival_platform": "4",
+            "arrival_platform": "5",
             "cancelled": false,
             "departure": "2026-04-23T15:53:00+02:00",
             "departure_delay_minutes": 0,
@@ -860,7 +865,7 @@
       },
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#1145411#TA#0#DA#230426#1S#8000297#1T#1553#LS#8000213#LT#1728#PU#80#RT#1#CA#DRB#ZE#74978#ZB#            74978#PC#3#FR#8000297#FT#1553#TO#8000213#TT#1728#": {
@@ -876,7 +881,7 @@
           {
             "arrival": null,
             "arrival_delay_minutes": null,
-            "arrival_platform": "4",
+            "arrival_platform": "5",
             "cancelled": false,
             "departure": "2026-04-23T15:53:00+02:00",
             "departure_delay_minutes": 0,
@@ -1021,7 +1026,7 @@
       },
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#1145442#TA#2#DA#230426#1S#8000297#1T#1513#LS#8000036#LT#1607#PU#80#RT#1#CA#DRB#ZE#75052#ZB#            75052#PC#3#FR#8000297#FT#1513#TO#8000036#TT#1607#": {
@@ -1039,8 +1044,8 @@
             "arrival_delay_minutes": null,
             "arrival_platform": "5",
             "cancelled": false,
-            "departure": "2026-04-23T15:57:00+02:00",
-            "departure_delay_minutes": 44,
+            "departure": "2026-04-23T15:56:00+02:00",
+            "departure_delay_minutes": 43,
             "planned_arrival": null,
             "planned_arrival_platform": "5",
             "planned_departure": "2026-04-23T15:13:00+02:00",
@@ -1048,12 +1053,12 @@
             "stop_name": "Paderborn Hbf"
           },
           {
-            "arrival": "2026-04-23T15:59:00+02:00",
-            "arrival_delay_minutes": 44,
+            "arrival": "2026-04-23T15:58:00+02:00",
+            "arrival_delay_minutes": 43,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T15:59:00+02:00",
-            "departure_delay_minutes": 44,
+            "departure": "2026-04-23T15:58:00+02:00",
+            "departure_delay_minutes": 43,
             "planned_arrival": "2026-04-23T15:15:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T15:15:00+02:00",
@@ -1061,12 +1066,12 @@
             "stop_name": "Paderborn Kasseler Tor"
           },
           {
-            "arrival": "2026-04-23T16:02:00+02:00",
-            "arrival_delay_minutes": 44,
+            "arrival": "2026-04-23T16:01:00+02:00",
+            "arrival_delay_minutes": 43,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:04:00+02:00",
-            "departure_delay_minutes": 44,
+            "departure": "2026-04-23T16:03:00+02:00",
+            "departure_delay_minutes": 43,
             "planned_arrival": "2026-04-23T15:18:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T15:20:00+02:00",
@@ -1087,12 +1092,12 @@
             "stop_name": "Paderborn-Schloss Neuhaus"
           },
           {
-            "arrival": "2026-04-23T16:16:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:15:00+02:00",
+            "arrival_delay_minutes": 42,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:18:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:17:00+02:00",
+            "departure_delay_minutes": 42,
             "planned_arrival": "2026-04-23T15:33:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T15:35:00+02:00",
@@ -1100,12 +1105,12 @@
             "stop_name": "Hövelhof"
           },
           {
-            "arrival": "2026-04-23T16:22:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:21:00+02:00",
+            "arrival_delay_minutes": 42,
             "arrival_platform": "1 Nord",
             "cancelled": false,
-            "departure": "2026-04-23T16:22:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:21:00+02:00",
+            "departure_delay_minutes": 42,
             "planned_arrival": "2026-04-23T15:39:00+02:00",
             "planned_arrival_platform": "1 Nord",
             "planned_departure": "2026-04-23T15:39:00+02:00",
@@ -1113,12 +1118,12 @@
             "stop_name": "Hövelriege"
           },
           {
-            "arrival": "2026-04-23T16:26:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:25:00+02:00",
+            "arrival_delay_minutes": 42,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:27:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:26:00+02:00",
+            "departure_delay_minutes": 42,
             "planned_arrival": "2026-04-23T15:43:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T15:44:00+02:00",
@@ -1126,12 +1131,12 @@
             "stop_name": "Schloß Holte"
           },
           {
-            "arrival": "2026-04-23T16:33:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:32:00+02:00",
+            "arrival_delay_minutes": 42,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:35:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:34:00+02:00",
+            "departure_delay_minutes": 42,
             "planned_arrival": "2026-04-23T15:50:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T15:52:00+02:00",
@@ -1139,12 +1144,12 @@
             "stop_name": "Bielefeld-Sennestadt"
           },
           {
-            "arrival": "2026-04-23T16:38:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:37:00+02:00",
+            "arrival_delay_minutes": 42,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:38:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:37:00+02:00",
+            "departure_delay_minutes": 42,
             "planned_arrival": "2026-04-23T15:55:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T15:55:00+02:00",
@@ -1152,12 +1157,12 @@
             "stop_name": "Bielefeld-Windelsbleiche"
           },
           {
-            "arrival": "2026-04-23T16:40:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:38:00+02:00",
+            "arrival_delay_minutes": 41,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:40:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:38:00+02:00",
+            "departure_delay_minutes": 41,
             "planned_arrival": "2026-04-23T15:57:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T15:57:00+02:00",
@@ -1165,12 +1170,12 @@
             "stop_name": "Bielefeld-Senne"
           },
           {
-            "arrival": "2026-04-23T16:45:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:43:00+02:00",
+            "arrival_delay_minutes": 41,
             "arrival_platform": "3",
             "cancelled": false,
-            "departure": "2026-04-23T16:45:00+02:00",
-            "departure_delay_minutes": 43,
+            "departure": "2026-04-23T16:43:00+02:00",
+            "departure_delay_minutes": 41,
             "planned_arrival": "2026-04-23T16:02:00+02:00",
             "planned_arrival_platform": "3",
             "planned_departure": "2026-04-23T16:02:00+02:00",
@@ -1178,8 +1183,8 @@
             "stop_name": "Bielefeld-Brackwede"
           },
           {
-            "arrival": "2026-04-23T16:50:00+02:00",
-            "arrival_delay_minutes": 43,
+            "arrival": "2026-04-23T16:48:00+02:00",
+            "arrival_delay_minutes": 41,
             "arrival_platform": "8",
             "cancelled": false,
             "departure": null,
@@ -1195,7 +1200,7 @@
       },
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#1145442#TA#3#DA#230426#1S#8000297#1T#1613#LS#8000036#LT#1707#PU#80#RT#1#CA#DRB#ZE#75058#ZB#            75058#PC#3#FR#8000297#FT#1613#TO#8000036#TT#1707#": {
@@ -1213,8 +1218,8 @@
             "arrival_delay_minutes": null,
             "arrival_platform": "5",
             "cancelled": false,
-            "departure": "2026-04-23T16:21:00+02:00",
-            "departure_delay_minutes": 8,
+            "departure": "2026-04-23T16:23:00+02:00",
+            "departure_delay_minutes": 10,
             "planned_arrival": null,
             "planned_arrival_platform": "5",
             "planned_departure": "2026-04-23T16:13:00+02:00",
@@ -1222,12 +1227,12 @@
             "stop_name": "Paderborn Hbf"
           },
           {
-            "arrival": "2026-04-23T16:23:00+02:00",
-            "arrival_delay_minutes": 8,
+            "arrival": "2026-04-23T16:25:00+02:00",
+            "arrival_delay_minutes": 10,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:23:00+02:00",
-            "departure_delay_minutes": 8,
+            "departure": "2026-04-23T16:25:00+02:00",
+            "departure_delay_minutes": 10,
             "planned_arrival": "2026-04-23T16:15:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:15:00+02:00",
@@ -1235,12 +1240,12 @@
             "stop_name": "Paderborn Kasseler Tor"
           },
           {
-            "arrival": "2026-04-23T16:26:00+02:00",
-            "arrival_delay_minutes": 8,
+            "arrival": "2026-04-23T16:28:00+02:00",
+            "arrival_delay_minutes": 10,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:28:00+02:00",
-            "departure_delay_minutes": 8,
+            "departure": "2026-04-23T16:30:00+02:00",
+            "departure_delay_minutes": 10,
             "planned_arrival": "2026-04-23T16:18:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T16:20:00+02:00",
@@ -1248,12 +1253,12 @@
             "stop_name": "Paderborn Nord"
           },
           {
-            "arrival": "2026-04-23T16:32:00+02:00",
-            "arrival_delay_minutes": 8,
+            "arrival": "2026-04-23T16:34:00+02:00",
+            "arrival_delay_minutes": 10,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:32:00+02:00",
-            "departure_delay_minutes": 8,
+            "departure": "2026-04-23T16:34:00+02:00",
+            "departure_delay_minutes": 10,
             "planned_arrival": "2026-04-23T16:24:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:24:00+02:00",
@@ -1261,12 +1266,12 @@
             "stop_name": "Paderborn-Schloss Neuhaus"
           },
           {
-            "arrival": "2026-04-23T16:40:00+02:00",
-            "arrival_delay_minutes": 7,
+            "arrival": "2026-04-23T16:42:00+02:00",
+            "arrival_delay_minutes": 9,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:42:00+02:00",
-            "departure_delay_minutes": 7,
+            "departure": "2026-04-23T16:44:00+02:00",
+            "departure_delay_minutes": 9,
             "planned_arrival": "2026-04-23T16:33:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T16:35:00+02:00",
@@ -1274,12 +1279,12 @@
             "stop_name": "Hövelhof"
           },
           {
-            "arrival": "2026-04-23T16:46:00+02:00",
-            "arrival_delay_minutes": 7,
+            "arrival": "2026-04-23T16:48:00+02:00",
+            "arrival_delay_minutes": 9,
             "arrival_platform": "1 Nord",
             "cancelled": false,
-            "departure": "2026-04-23T16:46:00+02:00",
-            "departure_delay_minutes": 7,
+            "departure": "2026-04-23T16:48:00+02:00",
+            "departure_delay_minutes": 9,
             "planned_arrival": "2026-04-23T16:39:00+02:00",
             "planned_arrival_platform": "1 Nord",
             "planned_departure": "2026-04-23T16:39:00+02:00",
@@ -1287,12 +1292,12 @@
             "stop_name": "Hövelriege"
           },
           {
-            "arrival": "2026-04-23T16:50:00+02:00",
-            "arrival_delay_minutes": 7,
+            "arrival": "2026-04-23T16:52:00+02:00",
+            "arrival_delay_minutes": 9,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:51:00+02:00",
-            "departure_delay_minutes": 7,
+            "departure": "2026-04-23T16:53:00+02:00",
+            "departure_delay_minutes": 9,
             "planned_arrival": "2026-04-23T16:43:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:44:00+02:00",
@@ -1300,12 +1305,12 @@
             "stop_name": "Schloß Holte"
           },
           {
-            "arrival": "2026-04-23T16:56:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T16:58:00+02:00",
+            "arrival_delay_minutes": 8,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T16:58:00+02:00",
-            "departure_delay_minutes": 6,
+            "departure": "2026-04-23T17:00:00+02:00",
+            "departure_delay_minutes": 8,
             "planned_arrival": "2026-04-23T16:50:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T16:52:00+02:00",
@@ -1313,12 +1318,12 @@
             "stop_name": "Bielefeld-Sennestadt"
           },
           {
-            "arrival": "2026-04-23T17:01:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T17:03:00+02:00",
+            "arrival_delay_minutes": 8,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T17:01:00+02:00",
-            "departure_delay_minutes": 6,
+            "departure": "2026-04-23T17:03:00+02:00",
+            "departure_delay_minutes": 8,
             "planned_arrival": "2026-04-23T16:55:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:55:00+02:00",
@@ -1326,12 +1331,12 @@
             "stop_name": "Bielefeld-Windelsbleiche"
           },
           {
-            "arrival": "2026-04-23T17:03:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T17:05:00+02:00",
+            "arrival_delay_minutes": 8,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T17:03:00+02:00",
-            "departure_delay_minutes": 6,
+            "departure": "2026-04-23T17:05:00+02:00",
+            "departure_delay_minutes": 8,
             "planned_arrival": "2026-04-23T16:57:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:57:00+02:00",
@@ -1339,12 +1344,12 @@
             "stop_name": "Bielefeld-Senne"
           },
           {
-            "arrival": "2026-04-23T17:08:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T17:10:00+02:00",
+            "arrival_delay_minutes": 8,
             "arrival_platform": "3",
             "cancelled": false,
-            "departure": "2026-04-23T17:08:00+02:00",
-            "departure_delay_minutes": 6,
+            "departure": "2026-04-23T17:10:00+02:00",
+            "departure_delay_minutes": 8,
             "planned_arrival": "2026-04-23T17:02:00+02:00",
             "planned_arrival_platform": "3",
             "planned_departure": "2026-04-23T17:02:00+02:00",
@@ -1352,8 +1357,8 @@
             "stop_name": "Bielefeld-Brackwede"
           },
           {
-            "arrival": "2026-04-23T17:13:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T17:15:00+02:00",
+            "arrival_delay_minutes": 8,
             "arrival_platform": "8",
             "cancelled": false,
             "departure": null,
@@ -1369,7 +1374,7 @@
       },
       "first_seen_at": "2026-04-23T13:30:26.908220+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#1145445#TA#2#DA#230426#1S#8000297#1T#1543#LS#8000036#LT#1637#PU#80#RT#1#CA#DRB#ZE#75056#ZB#            75056#PC#3#FR#8000297#FT#1543#TO#8000036#TT#1637#": {
@@ -1531,6 +1536,167 @@
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
       "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "status": "active"
+    },
+    "2|#VN#1#ST#1776708124#PI#0#ZI#1145445#TA#3#DA#230426#1S#8000297#1T#1643#LS#8000036#LT#1737#PU#80#RT#1#CA#DRB#ZE#75062#ZB#            75062#PC#3#FR#8000297#FT#1643#TO#8000036#TT#1737#": {
+      "data": {
+        "cancelled": false,
+        "destination": "Bielefeld Hbf",
+        "direction": "Bielefeld Hbf",
+        "line_name": "RB74",
+        "origin": "Paderborn Hbf",
+        "product": "regional",
+        "station_stopover_index": 0,
+        "stopovers": [
+          {
+            "arrival": null,
+            "arrival_delay_minutes": null,
+            "arrival_platform": "5",
+            "cancelled": false,
+            "departure": "2026-04-23T16:43:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": null,
+            "planned_arrival_platform": "5",
+            "planned_departure": "2026-04-23T16:43:00+02:00",
+            "stop_id": "8000297",
+            "stop_name": "Paderborn Hbf"
+          },
+          {
+            "arrival": "2026-04-23T16:45:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "1",
+            "cancelled": false,
+            "departure": "2026-04-23T16:45:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T16:45:00+02:00",
+            "planned_arrival_platform": "1",
+            "planned_departure": "2026-04-23T16:45:00+02:00",
+            "stop_id": "8004744",
+            "stop_name": "Paderborn Kasseler Tor"
+          },
+          {
+            "arrival": "2026-04-23T16:48:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "2",
+            "cancelled": false,
+            "departure": "2026-04-23T16:50:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T16:48:00+02:00",
+            "planned_arrival_platform": "2",
+            "planned_departure": "2026-04-23T16:50:00+02:00",
+            "stop_id": "8004745",
+            "stop_name": "Paderborn Nord"
+          },
+          {
+            "arrival": "2026-04-23T16:55:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "1",
+            "cancelled": false,
+            "departure": "2026-04-23T16:56:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T16:55:00+02:00",
+            "planned_arrival_platform": "1",
+            "planned_departure": "2026-04-23T16:56:00+02:00",
+            "stop_id": "8005534",
+            "stop_name": "Paderborn-Sennelager"
+          },
+          {
+            "arrival": "2026-04-23T17:03:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "2",
+            "cancelled": false,
+            "departure": "2026-04-23T17:06:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:03:00+02:00",
+            "planned_arrival_platform": "2",
+            "planned_departure": "2026-04-23T17:06:00+02:00",
+            "stop_id": "8002920",
+            "stop_name": "Hövelhof"
+          },
+          {
+            "arrival": "2026-04-23T17:13:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "1",
+            "cancelled": false,
+            "departure": "2026-04-23T17:14:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:13:00+02:00",
+            "planned_arrival_platform": "1",
+            "planned_departure": "2026-04-23T17:14:00+02:00",
+            "stop_id": "8005369",
+            "stop_name": "Schloß Holte"
+          },
+          {
+            "arrival": "2026-04-23T17:20:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "2",
+            "cancelled": false,
+            "departure": "2026-04-23T17:22:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:20:00+02:00",
+            "planned_arrival_platform": "2",
+            "planned_departure": "2026-04-23T17:22:00+02:00",
+            "stop_id": "8005535",
+            "stop_name": "Bielefeld-Sennestadt"
+          },
+          {
+            "arrival": "2026-04-23T17:25:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "1",
+            "cancelled": false,
+            "departure": "2026-04-23T17:25:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:25:00+02:00",
+            "planned_arrival_platform": "1",
+            "planned_departure": "2026-04-23T17:25:00+02:00",
+            "stop_id": "8006466",
+            "stop_name": "Bielefeld-Windelsbleiche"
+          },
+          {
+            "arrival": "2026-04-23T17:27:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "1",
+            "cancelled": false,
+            "departure": "2026-04-23T17:27:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:27:00+02:00",
+            "planned_arrival_platform": "1",
+            "planned_departure": "2026-04-23T17:27:00+02:00",
+            "stop_id": "8000956",
+            "stop_name": "Bielefeld-Senne"
+          },
+          {
+            "arrival": "2026-04-23T17:32:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "3",
+            "cancelled": false,
+            "departure": "2026-04-23T17:32:00+02:00",
+            "departure_delay_minutes": 0,
+            "planned_arrival": "2026-04-23T17:32:00+02:00",
+            "planned_arrival_platform": "3",
+            "planned_departure": "2026-04-23T17:32:00+02:00",
+            "stop_id": "8000048",
+            "stop_name": "Bielefeld-Brackwede"
+          },
+          {
+            "arrival": "2026-04-23T17:37:00+02:00",
+            "arrival_delay_minutes": 0,
+            "arrival_platform": "8",
+            "cancelled": false,
+            "departure": null,
+            "departure_delay_minutes": null,
+            "planned_arrival": "2026-04-23T17:37:00+02:00",
+            "planned_arrival_platform": "8",
+            "planned_departure": null,
+            "stop_id": "8000036",
+            "stop_name": "Bielefeld Hbf"
+          }
+        ],
+        "trip_id": "2|#VN#1#ST#1776708124#PI#0#ZI#1145445#TA#3#DA#230426#1S#8000297#1T#1643#LS#8000036#LT#1737#PU#80#RT#1#CA#DRB#ZE#75062#ZB#            75062#PC#3#FR#8000297#FT#1643#TO#8000036#TT#1737#"
+      },
+      "first_seen_at": "2026-04-23T13:45:13.100262+00:00",
+      "force_finished": false,
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#351890#TA#4#DA#230426#1S#8000297#1T#1521#LS#8000263#LT#1652#PU#80#RT#1#CA#DRB#ZE#90026#ZB#            90026#PC#3#FR#8000297#FT#1521#TO#8000263#TT#1652#": {
@@ -2060,7 +2226,7 @@
       },
       "first_seen_at": "2026-04-23T13:30:26.908220+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#351921#TA#8#DA#230426#1S#8000297#1T#1551#LS#8000263#LT#1717#PU#80#RT#1#CA#DRB#ZE#90076#ZB#            90076#PC#3#FR#8000297#FT#1551#TO#8000263#TT#1717#": {
@@ -2325,7 +2491,7 @@
       },
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#352013#TA#5#DA#230426#1S#8000297#1T#1621#LS#8000215#LT#1708#PU#80#RT#1#CA#DRB#ZE#90672#ZB#            90672#PC#3#FR#8000297#FT#1621#TO#8000215#TT#1708#": {
@@ -2434,7 +2600,7 @@
       },
       "first_seen_at": "2026-04-23T13:30:26.908220+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#352015#TA#4#DA#230426#1S#8000297#1T#1521#LS#8000215#LT#1608#PU#80#RT#1#CA#DRB#ZE#90670#ZB#            90670#PC#3#FR#8000297#FT#1521#TO#8000215#TT#1608#": {
@@ -2713,12 +2879,12 @@
             "stop_name": "Lippstadt"
           },
           {
-            "arrival": "2026-04-23T15:52:00+02:00",
-            "arrival_delay_minutes": 6,
+            "arrival": "2026-04-23T15:50:00+02:00",
+            "arrival_delay_minutes": 4,
             "arrival_platform": "2",
             "cancelled": false,
-            "departure": "2026-04-23T15:53:00+02:00",
-            "departure_delay_minutes": 5,
+            "departure": "2026-04-23T15:51:00+02:00",
+            "departure_delay_minutes": 3,
             "planned_arrival": "2026-04-23T15:46:00+02:00",
             "planned_arrival_platform": "2",
             "planned_departure": "2026-04-23T15:48:00+02:00",
@@ -2726,12 +2892,12 @@
             "stop_name": "Paderborn Hbf"
           },
           {
-            "arrival": "2026-04-23T16:05:00+02:00",
-            "arrival_delay_minutes": 5,
+            "arrival": "2026-04-23T16:03:00+02:00",
+            "arrival_delay_minutes": 3,
             "arrival_platform": "22",
             "cancelled": false,
-            "departure": "2026-04-23T16:06:00+02:00",
-            "departure_delay_minutes": 5,
+            "departure": "2026-04-23T16:04:00+02:00",
+            "departure_delay_minutes": 3,
             "planned_arrival": "2026-04-23T16:00:00+02:00",
             "planned_arrival_platform": "22",
             "planned_departure": "2026-04-23T16:01:00+02:00",
@@ -2739,12 +2905,12 @@
             "stop_name": "Altenbeken"
           },
           {
-            "arrival": "2026-04-23T16:15:00+02:00",
-            "arrival_delay_minutes": 5,
+            "arrival": "2026-04-23T16:13:00+02:00",
+            "arrival_delay_minutes": 3,
             "arrival_platform": "1",
             "cancelled": false,
-            "departure": "2026-04-23T16:16:00+02:00",
-            "departure_delay_minutes": 5,
+            "departure": "2026-04-23T16:14:00+02:00",
+            "departure_delay_minutes": 3,
             "planned_arrival": "2026-04-23T16:10:00+02:00",
             "planned_arrival_platform": "1",
             "planned_departure": "2026-04-23T16:11:00+02:00",
@@ -2752,12 +2918,12 @@
             "stop_name": "Willebadessen"
           },
           {
-            "arrival": "2026-04-23T16:28:00+02:00",
-            "arrival_delay_minutes": 5,
+            "arrival": "2026-04-23T16:26:00+02:00",
+            "arrival_delay_minutes": 3,
             "arrival_platform": "3",
             "cancelled": false,
-            "departure": "2026-04-23T16:29:00+02:00",
-            "departure_delay_minutes": 5,
+            "departure": "2026-04-23T16:27:00+02:00",
+            "departure_delay_minutes": 3,
             "planned_arrival": "2026-04-23T16:23:00+02:00",
             "planned_arrival_platform": "3",
             "planned_departure": "2026-04-23T16:24:00+02:00",
@@ -2765,12 +2931,12 @@
             "stop_name": "Warburg(Westf)"
           },
           {
-            "arrival": "2026-04-23T16:43:00+02:00",
-            "arrival_delay_minutes": 5,
+            "arrival": "2026-04-23T16:41:00+02:00",
+            "arrival_delay_minutes": 3,
             "arrival_platform": "2b",
             "cancelled": false,
-            "departure": "2026-04-23T16:43:00+02:00",
-            "departure_delay_minutes": 5,
+            "departure": "2026-04-23T16:41:00+02:00",
+            "departure_delay_minutes": 3,
             "planned_arrival": "2026-04-23T16:38:00+02:00",
             "planned_arrival_platform": "2b",
             "planned_departure": "2026-04-23T16:38:00+02:00",
@@ -2778,8 +2944,8 @@
             "stop_name": "Hofgeismar"
           },
           {
-            "arrival": "2026-04-23T17:01:00+02:00",
-            "arrival_delay_minutes": 5,
+            "arrival": "2026-04-23T16:59:00+02:00",
+            "arrival_delay_minutes": 3,
             "arrival_platform": "4",
             "cancelled": false,
             "departure": null,
@@ -2795,7 +2961,7 @@
       },
       "first_seen_at": "2026-04-23T13:01:24.825187+00:00",
       "force_finished": false,
-      "last_seen_at": "2026-04-23T13:30:26.908220+00:00",
+      "last_seen_at": "2026-04-23T13:45:13.100262+00:00",
       "status": "active"
     },
     "2|#VN#1#ST#1776708124#PI#0#ZI#555873#TA#0#DA#230426#1S#8003200#1T#1403#LS#8000085#LT#1724#PU#80#RT#1#CA#DRB#ZE#26722#ZB#            26722#PC#3#FR#8003200#FT#1403#TO#8000085#TT#1724#": {
